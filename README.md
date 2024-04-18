@@ -8,8 +8,8 @@ To use this project you will need the following equipment:
 * Oscilloscope
 * Lab-bench power supply
 * The nesserary cables for the test:
-- Oscilloscope measurment cables
-- 
+    * Oscilloscope measurment cables
+    * kkj
 
 
 ## User guide
