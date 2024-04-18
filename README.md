@@ -7,9 +7,11 @@ To use this project you will need the following equipment:
 * The simulation box
 * Oscilloscope
 * Lab-bench power supply
-* The nesserary cables for the test:
-    * Oscilloscope measurment cables
-    * kkj
+* 5V USB power supply (only if you don't have a double channel Lab-bench power supply)
+The nesserary cables for the test:
+* Oscilloscope probes
+* Power supply cables
+* USB-A to USB-micro calbe in case you don't have a double channel Lab-bench power supply
 
 
 ## User guide
