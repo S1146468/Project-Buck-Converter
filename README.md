@@ -8,10 +8,10 @@ To use this project you will need the following equipment:
 * Oscilloscope
 * Lab-bench power supply
 * 5V USB power supply (only if you don't have a double channel Lab-bench power supply)
-The nesserary cables for the test:
-* Oscilloscope probes
-* Power supply cables
-* USB-A to USB-micro calbe in case you don't have a double channel Lab-bench power supply
+* The nesserary cables for the test:
+    * Oscilloscope probes
+    * Power supply cables
+    * USB-A to USB-micro calbe in case you don't have a double channel Lab-bench power supply
 
 
 ## User guide
@@ -22,8 +22,4 @@ The output of the powersupply should be set to around 10V DC. If the results you
 
 If you have a power supply with a second channel, you can use that to power the Nucleo board. Make sure to set the switch to External 5V if you do, if you dont, you risk destroying the Nucleo board.
 In case if you don't have a second channel on the power supply, you can also use the micro-usb port on the Nucleo to power it. Make sure to set the switch to USB-Power before you connect it. If you don't you risk destroying the Nucleo board.
-
-
-
-
 
