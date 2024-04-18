@@ -7,12 +7,14 @@ To use this project you will need the following equipment:
 * The simulation box
 * Oscilloscope
 * Lab-bench power supply
-* The nesserary cables for the test
+* The nesserary cables for the test:
+- Oscilloscope measurment cables
+- 
 
 
 ## User guide
 
-![alt text](https://github.com/S1146468/Project-Buck-Converter/blob/master/Product_Top_view.jpg "")
+![alt text](https://github.com/S1146468/Project-Buck-Converter/blob/master/Product_Top_view.png "")
 
 The output of the powersupply should be set to around 10V DC. If the results you get are not what you expected, you can vary the output voltage of the power supply by +-2V.
 
