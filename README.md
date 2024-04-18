@@ -1,4 +1,4 @@
-![alt text](https://github.com/S1146468/Project-Buck-Converter/blob/master/Product_Front_view.jpg "Logo Title Text 1")
+![alt text](https://github.com/S1146468/Project-Buck-Converter/blob/master/Product_Front_view.jpg "")
 
 # Switch Node Ringing Phenomenon
 
@@ -9,6 +9,10 @@ To use this project you will need the following equipment:
 * Lab-bench power supply
 * The nesserary cables for the test
 
+
+## User guide
+
+![alt text](https://github.com/S1146468/Project-Buck-Converter/blob/master/Product_Top_view.jpg "")
 
 The output of the powersupply should be set to around 10V DC. If the results you get are not what you expected, you can vary the output voltage of the power supply by +-2V.
 
