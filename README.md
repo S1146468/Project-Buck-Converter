@@ -7,9 +7,11 @@ To use this project you will need the following equipment:
 * The simulation box
 * Oscilloscope
 * Lab-bench power supply
-* the nesserary cables for the test
+* The nesserary cables for the test
+
 
 The output of the powersupply should be set to around 10V DC. If the results you get are not what you expected, you can vary the output voltage of the power supply by +-2V.
+
 If you have a power supply with a second channel, you can use that to power the Nucleo board. Make sure to set the switch to External 5V if you do, if you dont, you risk destroying the Nucleo board.
 In case if you don't have a second channel on the power supply, you can also use the micro-usb port on the Nucleo to power it. Make sure to set the switch to USB-Power before you connect it. If you don't you risk destroying the Nucleo board.
 
