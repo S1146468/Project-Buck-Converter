@@ -20,8 +20,9 @@ To use this project you will need the following equipment:
 
 Pinout:
 * GND	            Power supply ground reference
-* USB-Power	    If the switch is in this position the 5V will be generated through the Nucleo 5V supply
-* External 5V	    if the switch is in this posistion the Nucleo board will only recieve external power through the external 5V header
+* USB-Power	        If the switch is in this position the 5V will be generated through the Nucleo 5V supply
+* External 5V	    if the switch is in this posistion the Nucleo board will only recieve external power 
+                    through the J2 header
 * J1              
 * J2              
 * J3              
