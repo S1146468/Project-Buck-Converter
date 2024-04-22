@@ -19,20 +19,20 @@ To use this project you will need the following equipment:
 ![alt text](https://github.com/S1146468/Project-Buck-Converter/blob/master/Product_Top_view.png "")
 
 Pinout:
-GND	            Power supply ground reference
-USB-Power	    If the switch is in this position the 5V will be generated through the Nucleo 5V supply
-External 5V	    if the switch is in this posistion the Nucleo board will only recieve external power through the external 5V header
-J1              
-J2              
-J3              
-J4              
-J5              
-J6              
-J7              
-J8              
-J9              
-Potmeter        
-Button          
+* GND	            Power supply ground reference
+* USB-Power	    If the switch is in this position the 5V will be generated through the Nucleo 5V supply
+* External 5V	    if the switch is in this posistion the Nucleo board will only recieve external power through the external 5V header
+* J1              
+* J2              
+* J3              
+* J4              
+* J5              
+* J6              
+* J7              
+* J8              
+* J9              
+* Potmeter        
+* Button          
 
 
 
