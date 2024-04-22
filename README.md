@@ -18,6 +18,7 @@ To use this project you will need the following equipment:
 
 ![alt text](https://github.com/S1146468/Project-Buck-Converter/blob/master/Product_Top_view.png "")
 
+### hier moet ik ff een titel voor hebben
 | Pinout            |               |
 | ----------------- | ------------- | 
 | GND	            | Power supply ground reference for the oscilloscope    |
