@@ -19,6 +19,7 @@ To use this project you will need the following equipment:
 ![alt text](https://github.com/S1146468/Project-Buck-Converter/blob/master/Product_Top_view.png "")
 
 ### Pinout:
+|  
 * GND	        Power supply ground reference
 * USB-Power	    If the switch is in this position the 5V will be generated through the Nucleo 5V supply
 * External 5V	if the switch is in this posistion the Nucleo board will only recieve external power 
@@ -35,7 +36,11 @@ To use this project you will need the following equipment:
 * Potmeter        
 * Button          
 
-
+| Tables   ||  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 The output of the powersupply should be set to around 10V DC. If the results you get are not what you expected, you can vary the output voltage of the power supply by +-2V.
 
