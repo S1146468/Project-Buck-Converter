@@ -36,7 +36,7 @@ To use this project you will need the following equipment:
 * Potmeter        
 * Button          
 
-| Tables   ||  |
+| Tables          |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
