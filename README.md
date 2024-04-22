@@ -18,23 +18,22 @@ To use this project you will need the following equipment:
 
 ![alt text](https://github.com/S1146468/Project-Buck-Converter/blob/master/Product_Top_view.png "")
 
-### Pinout
-| Pinout        |               |
+| Pinout            |               |
 | ----------------- | ------------- | 
-| GND	        | Power supply ground reference     |
-| USB-Power	    | If the switch is in this position the 5V will be generated through the Nucleo 5V supply     |
-| External 5V	| If the switch is in this posistion the Nucleo board will only recieve external power through the J2 header     |
-| J1            |      |
-| J2            |      |
-| J3            |      |
-| J4            |      |
-| J5            |      |
-| J6            |      |
-| J7            |      |     
-| J8            |      |
-| J9            |      |
-| Potmeter      |      |
-| Button        |      |
+| GND	            | Power supply ground reference for the oscilloscope    |
+| USB-Power	        | If the switch is in this position the 5V will be generated through the Nucleo 5V supply     |
+| External 5V	    | If the switch is in this posistion the Nucleo board will only recieve external power through the J2 header     |
+| J1                | External 10V input    |
+| J2                | External 5V input (make sure to set the switch to external 5V)     |
+| J3                | External GND from PSU     |
+| J4                | External trigger for the oscilloscope     |
+| J5                | Clock out / input to mosfet driver for Q4     |
+| J6                | Output / Measure here with the oscilloscope     |
+| J7                | Trigger signal to mosfet driver to trigger the output oscillations     |     
+| J8                | Q4 gate signal     |
+| J9                | Q8 gate signal     |
+| Potmeter          | Use this to change the amplitude of the oscilations     |
+| Button            | This push button is used to trigger the oscilations     |
 
 
 
