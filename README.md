@@ -36,27 +36,8 @@ To use this project you will need the following equipment:
 | Button            | This push button is used to trigger the oscilations     |
 
 
-
+### Power supply
 The output of the powersupply should be set to around 10V DC. If the results you get are not what you expected, you can vary the output voltage of the power supply by +-2V.
 
 If you have a power supply with a second channel, you can use that to power the Nucleo board. Make sure to set the switch to External 5V if you do, if you dont, you risk destroying the Nucleo board.
 In case if you don't have a second channel on the power supply, you can also use the micro-usb port on the Nucleo to power it. Make sure to set the switch to USB-Power before you connect it. If you don't you risk destroying the Nucleo board.
-
-
-
-
-Tag	Functie
-GND	Dit is de nullijn van het gehele circuit, deze headers zijn geplaatst voor de ground van scopes en multimeters.
-USB-Power	Als de switch in de bovenste stand staat is het circuit gevoed door de external power supply en de microcontroller door de USB.
-External 5V	Als de switch in de onderste positie staat is de microcontroller gevoed door de externe 5v die van de power supply komt.
-J1	External 10V input, hierop wordt de labvoeding aangesloten.
-J2	External 5V input, hierop wordt de labvoeding aangesloten.
-J3	External GND, hierop wordt de GND van de labvoeding aangesloten.
-J4	Deze pin is om de scope een trigger moment te geven, deze pin is aangesloten op de microcontroller en de 
-J5	Ingangssignaal van de MOSFET-driver die de buck converter stuurt.
-J6	Uitgangssignaal, op deze pin kan het uitgangssignaal van het circuit worden gemeten.
-J7	Ingangssignaal van de MOSFET-driver die het circuit belast.
-J8	Uitgangssignaal van de MOSFET-driver die de buck converter stuurt.
-J9	Uitgangssignaal van de MOSFET-driver die het circuit belast.
-Potmeter	Hiermee kan de duty cycle die naar de MOSFET gaat worden aangepast, helemaal naar links is 10% duty cycle en helemaal naar rechts is 100% duty cycle.
-Button	Hiermee kan de trigger die de microcontroller uitstuurt worden ingesteld.
